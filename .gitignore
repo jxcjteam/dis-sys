@@ -1,0 +1,12 @@
+*.iml
+.idea/
+*~
+.classpath
+.classes
+.project
+.settings/
+logs/
+*.log
+*.log.*
+.class
+.lst

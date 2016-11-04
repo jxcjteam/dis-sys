@@ -94,10 +94,13 @@
             <groupId>cn.51zb</groupId>
             <artifactId>zb-commons</artifactId>
         </dependency>
+<<<<<<< HEAD
         <dependency>
             <groupId>jdom</groupId>
             <artifactId>jdom</artifactId>
         </dependency>
+=======
+>>>>>>> origin/master
     </dependencies>
 
     <build>
